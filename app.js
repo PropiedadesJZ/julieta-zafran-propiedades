@@ -43,6 +43,7 @@ function categoryOf(property) {
 
 function matchesOperation(property) {
   if (activeCategory === 'lote' || activeCategory === 'cochera') return true;
+  if (property.operation === 'A confirmar') return true;
   const value = [...(property.filters || []), property.operation || ''].join(' ').toLowerCase();
   return activeOperation === 'comprar' ? /venta|compr/.test(value) : /alquil/.test(value);
 }
