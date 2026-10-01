@@ -434,5 +434,221 @@
       "assets/village-3-a-estrenar-4.jpg",
       "assets/village-3-a-estrenar-5.jpg"
     ]
+  },
+  {
+    "id": "casa-cuatro-suites-financiacion",
+    "title": "Casa de 4 suites · Hacoaj",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta",
+    "filters": [
+      "venta"
+    ],
+    "price": null,
+    "summary": "Casa con cuatro dormitorios en suite, dependencia y espacios amplios para disfrutar en familia.",
+    "details": [
+      "4 dormitorios en suite",
+      "Dependencia",
+      "Living y cocina",
+      "Jardín y pileta",
+      "Se ofrece financiación"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-cuatro-suites-financiacion-1.jpg",
+      "assets/casa-cuatro-suites-financiacion-2.jpg",
+      "assets/casa-cuatro-suites-financiacion-3.jpg",
+      "assets/casa-cuatro-suites-financiacion-4.jpg"
+    ]
+  },
+  {
+    "id": "casa-luminosa-hacoaj",
+    "title": "Casa luminosa · Hacoaj",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta",
+    "filters": [
+      "venta"
+    ],
+    "price": null,
+    "summary": "Una casa luminosa y rodeada de verde, con ambientes cálidos y jardín.",
+    "details": [
+      "Ambientes luminosos",
+      "Galería",
+      "Cocina",
+      "Jardín"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-luminosa-hacoaj-1.jpg",
+      "assets/casa-luminosa-hacoaj-2.jpg",
+      "assets/casa-luminosa-hacoaj-3.jpg",
+      "assets/casa-luminosa-hacoaj-4.jpg"
+    ]
+  },
+  {
+    "id": "casa-isla-cuatro-dormitorios-venta-alquiler",
+    "title": "Casa en Isla · 4 dormitorios",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta y alquiler",
+    "filters": [
+      "venta",
+      "alquiler"
+    ],
+    "price": null,
+    "summary": "Casa en Isla con cuatro dormitorios, dependencia y jardín para disfrutar al aire libre.",
+    "details": [
+      "4 dormitorios",
+      "Dependencia",
+      "Cocina y comedor",
+      "Parrilla",
+      "Jardín y pileta"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-1.jpg",
+      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-2.jpg",
+      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-3.jpg",
+      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-4.jpg"
+    ]
+  },
+  {
+    "id": "casa-moderna-doble-altura",
+    "title": "Casa moderna · doble altura",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta y alquiler",
+    "filters": [
+      "venta",
+      "alquiler"
+    ],
+    "price": null,
+    "summary": "Casa moderna con ambientes de doble altura, pisos de madera y ventanales al verde.",
+    "details": [
+      "4 dormitorios",
+      "Doble altura",
+      "Pisos de madera",
+      "Ventanales al verde",
+      "Jardín y pileta"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-moderna-doble-altura-1.jpg",
+      "assets/casa-moderna-doble-altura-2.jpg",
+      "assets/casa-moderna-doble-altura-3.jpg",
+      "assets/casa-moderna-doble-altura-4.jpg"
+    ]
+  },
+  {
+    "id": "casa-lote-y-medio-1450",
+    "title": "Casa con jardín · 1.450 m² de lote",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta",
+    "filters": [
+      "venta"
+    ],
+    "price": null,
+    "summary": "Casa de cuatro dormitorios sobre lote y medio, con un jardín amplio.",
+    "details": [
+      "1.450 m² de lote",
+      "4 dormitorios, 2 en suite",
+      "Lote y medio",
+      "Jardín"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-lote-y-medio-1450-1.jpg",
+      "assets/casa-lote-y-medio-1450-2.jpg",
+      "assets/casa-lote-y-medio-1450-3.jpg",
+      "assets/casa-lote-y-medio-1450-4.jpg"
+    ]
+  },
+  {
+    "id": "casa-lote-y-medio-450",
+    "title": "Casa en lote y medio · 450 m²",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta",
+    "filters": [
+      "venta"
+    ],
+    "price": null,
+    "summary": "Casa de cuatro dormitorios sobre lote y medio, con espacios interiores y exteriores amplios.",
+    "details": [
+      "1.500 m² de lote",
+      "450 m² construidos",
+      "4 dormitorios",
+      "Lote y medio"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-lote-y-medio-450-4.jpg",
+      "assets/casa-lote-y-medio-450-1.jpg",
+      "assets/casa-lote-y-medio-450-2.jpg",
+      "assets/casa-lote-y-medio-450-3.jpg"
+    ]
+  },
+  {
+    "id": "casa-cinco-dormitorios-500",
+    "title": "Casa de 5 dormitorios · pileta",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta",
+    "filters": [
+      "venta"
+    ],
+    "price": null,
+    "summary": "Casa de cinco dormitorios en lote de 500 m², con playroom, sauna y pileta.",
+    "details": [
+      "500 m² de lote",
+      "5 dormitorios",
+      "Playroom",
+      "Sauna",
+      "Pileta"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-cinco-dormitorios-500-1.jpg",
+      "assets/casa-cinco-dormitorios-500-2.jpg",
+      "assets/casa-cinco-dormitorios-500-3.jpg",
+      "assets/casa-cinco-dormitorios-500-4.jpg"
+    ]
+  },
+  {
+    "id": "casa-isla-jacuzzi-playroom",
+    "title": "Casa en Isla · jacuzzi y playroom",
+    "type": "Casa",
+    "category": "casa",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta",
+    "filters": [
+      "venta"
+    ],
+    "price": null,
+    "summary": "Casa moderna en Isla con playroom, sala de TV y jacuzzi en la terraza.",
+    "details": [
+      "4 dormitorios, 3 en suite",
+      "Playroom",
+      "Sala de TV",
+      "Dependencia",
+      "Jacuzzi en terraza",
+      "Pileta"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/casa-isla-jacuzzi-playroom-1.jpg",
+      "assets/casa-isla-jacuzzi-playroom-2.jpg",
+      "assets/casa-isla-jacuzzi-playroom-3.jpg",
+      "assets/casa-isla-jacuzzi-playroom-4.jpg"
+    ]
   }
 ]
