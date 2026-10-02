@@ -299,35 +299,6 @@
     ]
   },
   {
-    "id": "casa-isla-lote-y-medio",
-    "title": "Casa en Isla · lote y medio",
-    "type": "Casa",
-    "category": "casa",
-    "location": "Club de Campo Hacoaj, Tigre",
-    "operation": "Venta y alquiler",
-    "filters": [
-      "venta",
-      "alquiler"
-    ],
-    "price": null,
-    "summary": "Casa en Isla con cuatro dormitorios, escritorio y espacios para disfrutar del jardín.",
-    "details": [
-      "4 dormitorios",
-      "Escritorio",
-      "Quincho",
-      "Dependencia",
-      "Lote y medio"
-    ],
-    "sourceUrl": null,
-    "images": [
-      "assets/casa-isla-lote-y-medio-1.jpg",
-      "assets/casa-isla-lote-y-medio-2.jpg",
-      "assets/casa-isla-lote-y-medio-3.jpg",
-      "assets/casa-isla-lote-y-medio-4.jpg",
-      "assets/casa-isla-lote-y-medio-5.jpg"
-    ]
-  },
-  {
     "id": "village-1-vista-al-verde",
     "title": "Village 1 · vista al verde",
     "type": "Village 1",
