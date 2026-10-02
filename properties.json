@@ -600,9 +600,9 @@
     "type": "Casa",
     "category": "casa",
     "location": "Club de Campo Hacoaj, Tigre",
-    "operation": "Venta",
+    "operation": "Alquiler",
     "filters": [
-      "venta"
+      "alquiler"
     ],
     "price": null,
     "summary": "Casa moderna en Isla con playroom, sala de TV y jacuzzi en la terraza.",
