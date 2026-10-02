@@ -299,61 +299,6 @@
     ]
   },
   {
-    "id": "village-1-etapa-1-segundo-piso",
-    "title": "Village Etapa 1 · segundo piso",
-    "type": "Village Etapa 1",
-    "category": "village",
-    "location": "Club de Campo Hacoaj, Tigre",
-    "operation": "Alquiler",
-    "filters": [
-      "alquiler"
-    ],
-    "price": null,
-    "summary": "Dos ambientes en segundo piso, con dormitorio, cocina y comedor.",
-    "details": [
-      "2 ambientes",
-      "Segundo piso",
-      "1 dormitorio",
-      "1 baño completo",
-      "Cocina y comedor"
-    ],
-    "sourceUrl": null,
-    "images": [
-      "assets/village-1-etapa-1-segundo-piso-1.jpg",
-      "assets/village-1-etapa-1-segundo-piso-2.jpg",
-      "assets/village-1-etapa-1-segundo-piso-3.jpg",
-      "assets/village-1-etapa-1-segundo-piso-4.jpg"
-    ]
-  },
-  {
-    "id": "village-1-planta-baja-jardin",
-    "title": "Village 1 · planta baja con jardín",
-    "type": "Village 1",
-    "category": "village",
-    "location": "Club de Campo Hacoaj, Tigre",
-    "operation": "Alquiler",
-    "filters": [
-      "alquiler"
-    ],
-    "price": null,
-    "summary": "Unidad en planta baja con jardín y parrilla para disfrutar al aire libre.",
-    "details": [
-      "Planta baja",
-      "1 dormitorio",
-      "1 baño completo",
-      "Comedor con sillones cama",
-      "Parrilla y jardín"
-    ],
-    "sourceUrl": null,
-    "images": [
-      "assets/village-1-planta-baja-jardin-1.jpg",
-      "assets/village-1-planta-baja-jardin-2.jpg",
-      "assets/village-1-planta-baja-jardin-3.jpg",
-      "assets/village-1-planta-baja-jardin-4.jpg",
-      "assets/village-1-planta-baja-jardin-5.jpg"
-    ]
-  },
-  {
     "id": "casa-cuatro-suites-financiacion",
     "title": "Casa de 4 suites · Hacoaj",
     "type": "Casa",
