@@ -299,32 +299,6 @@
     ]
   },
   {
-    "id": "village-1-vista-al-verde",
-    "title": "Village 1 · vista al verde",
-    "type": "Village 1",
-    "category": "village",
-    "location": "Club de Campo Hacoaj, Tigre",
-    "operation": "Alquiler",
-    "filters": [
-      "alquiler"
-    ],
-    "price": null,
-    "summary": "Unidad de un dormitorio en Village 1, con cocina separada y vista al verde.",
-    "details": [
-      "1 dormitorio",
-      "1 baño completo",
-      "Cocina separada",
-      "Sillón cama para 3 personas",
-      "Vista al verde"
-    ],
-    "sourceUrl": null,
-    "images": [
-      "assets/village-1-vista-al-verde-1.jpg",
-      "assets/village-1-vista-al-verde-2.jpg",
-      "assets/village-1-vista-al-verde-3.jpg"
-    ]
-  },
-  {
     "id": "village-1-etapa-1-segundo-piso",
     "title": "Village Etapa 1 · segundo piso",
     "type": "Village Etapa 1",
@@ -377,33 +351,6 @@
       "assets/village-1-planta-baja-jardin-3.jpg",
       "assets/village-1-planta-baja-jardin-4.jpg",
       "assets/village-1-planta-baja-jardin-5.jpg"
-    ]
-  },
-  {
-    "id": "village-3-a-estrenar",
-    "title": "Village 3 · a estrenar",
-    "type": "Village 3",
-    "category": "village",
-    "location": "Club de Campo Hacoaj, Tigre",
-    "operation": "A confirmar",
-    "filters": [],
-    "price": null,
-    "summary": "Unidad nueva a estrenar en Village 3, con jardín, parrilla y ambientes amplios.",
-    "details": [
-      "3 dormitorios",
-      "Dependencia",
-      "Lavadero",
-      "Parrilla",
-      "Jardín",
-      "Operación a confirmar"
-    ],
-    "sourceUrl": null,
-    "images": [
-      "assets/village-3-a-estrenar-1.jpg",
-      "assets/village-3-a-estrenar-2.jpg",
-      "assets/village-3-a-estrenar-3.jpg",
-      "assets/village-3-a-estrenar-4.jpg",
-      "assets/village-3-a-estrenar-5.jpg"
     ]
   },
   {
