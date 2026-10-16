@@ -33,6 +33,39 @@
     ]
   },
   {
+    "id": "lagunas-h-dos-dormitorios-dependencia",
+    "title": "Lagunas H · 2 dormitorios y dependencia",
+    "type": "Lagunas H",
+    "category": "lagunas",
+    "location": "Club de Campo Hacoaj, Tigre",
+    "operation": "Venta",
+    "filters": [
+      "venta"
+    ],
+    "price": "USD 385.000",
+    "summary": "Dos dormitorios, dependencia y una galería cubierta con vista a la laguna para disfrutar Hacoaj.",
+    "details": [
+      "2 dormitorios",
+      "Dependencia",
+      "Vista a la laguna",
+      "Living comedor",
+      "Cocina",
+      "Galería cubierta"
+    ],
+    "sourceUrl": null,
+    "images": [
+      "assets/lagunas-h-dos-dormitorios-dependencia-living.jpg",
+      "assets/lagunas-h-dos-dormitorios-dependencia-comedor.jpg",
+      "assets/lagunas-h-dos-dormitorios-dependencia-cocina.jpg",
+      "assets/lagunas-h-dos-dormitorios-dependencia-galeria.jpg",
+      "assets/lagunas-h-dos-dormitorios-dependencia-dormitorio-principal.jpg",
+      "assets/lagunas-h-dos-dormitorios-dependencia-segundo-dormitorio.jpg",
+      "assets/lagunas-h-dos-dormitorios-dependencia-bano-principal.jpg",
+      "assets/lagunas-h-dos-dormitorios-dependencia-segundo-bano.jpg"
+    ],
+    "imagePosition": "center 70%"
+  },
+  {
     "id": "palermo-cuatro-ambientes-alquiler",
     "title": "Departamento 4 ambientes · Palermo",
     "type": "Departamento",
@@ -188,7 +221,7 @@
     "filters": [
       "venta"
     ],
-    "price": "USD 1.100.000",
+    "price": "USD 670.000",
     "summary": "Casa con vista al golf, jardín parquizado y pileta sobre dos lotes.",
     "details": [
       "2.000 m² totales",
@@ -202,11 +235,14 @@
     ],
     "sourceUrl": "https://www.zonaprop.com.ar/propiedades/clasificado/veclcain-casa-en-venta-de-dos-lotes-en-isla-en-club-de-campo-53674312.html",
     "images": [
-      "https://imgar.zonapropcdn.com/avisos/resize/1/00/53/67/43/12/1200x1200/2071457249.jpg?isFirstImage=true",
-      "https://imgar.zonapropcdn.com/avisos/1/00/53/67/43/12/360x266/1911721190.jpg",
-      "https://imgar.zonapropcdn.com/avisos/1/00/53/67/43/12/360x266/1911721184.jpg",
-      "https://imgar.zonapropcdn.com/avisos/1/00/53/67/43/12/360x266/1911721182.jpg",
-      "https://imgar.zonapropcdn.com/avisos/1/00/53/67/43/12/360x266/1911721181.jpg"
+      "assets/casa-dos-lotes-isla-actualizada-cocina.jpg",
+      "assets/casa-dos-lotes-isla-actualizada-comedor.jpg",
+      "assets/casa-dos-lotes-isla-actualizada-comedor-diario.jpg",
+      "assets/casa-dos-lotes-isla-actualizada-dormitorio-principal.jpg",
+      "assets/casa-dos-lotes-isla-actualizada-segundo-dormitorio.jpg",
+      "assets/casa-dos-lotes-isla-actualizada-pileta.jpg",
+      "assets/casa-dos-lotes-isla-actualizada-galeria.jpg",
+      "assets/casa-dos-lotes-isla-actualizada-galeria-parrilla.jpg"
     ]
   },
   {
@@ -320,15 +356,19 @@
     ],
     "sourceUrl": null,
     "images": [
-      "assets/casa-cuatro-suites-financiacion-1-recuperada.jpg",
-      "assets/casa-cuatro-suites-financiacion-2.jpg",
-      "assets/casa-cuatro-suites-financiacion-3.jpg",
-      "assets/casa-cuatro-suites-financiacion-4-recuperada.jpg"
+      "assets/casa-cuatro-suites-financiacion-actualizada-living.jpg",
+      "assets/casa-cuatro-suites-financiacion-actualizada-cocina.svg",
+      "assets/casa-cuatro-suites-financiacion-actualizada-dormitorio-1.svg",
+      "assets/casa-cuatro-suites-financiacion-actualizada-dormitorio-2.jpg",
+      "assets/casa-cuatro-suites-financiacion-actualizada-dormitorio-3.jpg",
+      "assets/casa-cuatro-suites-financiacion-actualizada-dormitorio-4.jpg",
+      "assets/casa-cuatro-suites-financiacion-actualizada-bano.svg",
+      "assets/casa-cuatro-suites-financiacion-actualizada-pileta.svg"
     ]
   },
   {
     "id": "casa-luminosa-hacoaj",
-    "title": "Casa luminosa · Hacoaj",
+    "title": "Casa en una planta · 2 lotes",
     "type": "Casa",
     "category": "casa",
     "location": "Club de Campo Hacoaj, Tigre",
@@ -336,9 +376,13 @@
     "filters": [
       "venta"
     ],
-    "price": null,
-    "summary": "Una casa luminosa y rodeada de verde, con ambientes cálidos y jardín.",
+    "price": "USD 720.000",
+    "summary": "Casa desarrollada en una sola planta sobre dos lotes que suman 2.000 m² de terreno. Posibilidad de construir dos casas nuevas.",
     "details": [
+      "2.000 m² de terreno",
+      "2 lotes",
+      "Una sola planta",
+      "Posibilidad de construir dos casas nuevas",
       "Ambientes luminosos",
       "Galería",
       "Cocina",
@@ -346,10 +390,14 @@
     ],
     "sourceUrl": null,
     "images": [
-      "assets/casa-luminosa-hacoaj-1.jpg",
-      "assets/casa-luminosa-hacoaj-2.jpg",
-      "assets/casa-luminosa-hacoaj-3.jpg",
-      "assets/casa-luminosa-hacoaj-4.jpg"
+      "assets/casa-luminosa-hacoaj-actualizada-galeria.jpg",
+      "assets/casa-luminosa-hacoaj-actualizada-living.jpg",
+      "assets/casa-luminosa-hacoaj-actualizada-cocina.jpg",
+      "assets/casa-luminosa-hacoaj-actualizada-dormitorio-1.jpg",
+      "assets/casa-luminosa-hacoaj-actualizada-dormitorio-2.jpg",
+      "assets/casa-luminosa-hacoaj-actualizada-dormitorio-3.jpg",
+      "assets/casa-luminosa-hacoaj-actualizada-bano.jpg",
+      "assets/casa-luminosa-hacoaj-actualizada-jardin.jpg"
     ]
   },
   {
@@ -374,10 +422,14 @@
     ],
     "sourceUrl": null,
     "images": [
-      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-1.jpg",
-      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-2.jpg",
-      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-3.jpg",
-      "assets/casa-isla-cuatro-dormitorios-venta-alquiler-4.jpg"
+      "assets/casa-isla-cuatro-dormitorios-pdf-living.jpg",
+      "assets/casa-isla-cuatro-dormitorios-pdf-comedor.jpg",
+      "assets/casa-isla-cuatro-dormitorios-pdf-cocina.jpg",
+      "assets/casa-isla-cuatro-dormitorios-pdf-dormitorio.jpg",
+      "assets/casa-isla-cuatro-dormitorios-pdf-playroom.jpg",
+      "assets/casa-isla-cuatro-dormitorios-pdf-bano.jpg",
+      "assets/casa-isla-cuatro-dormitorios-pdf-galeria.jpg",
+      "assets/casa-isla-cuatro-dormitorios-pdf-jardin-pileta.jpg"
     ]
   },
   {

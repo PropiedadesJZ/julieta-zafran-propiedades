@@ -56,6 +56,7 @@ function renderCards() {
     const imageButton = el('button', 'card-image'); imageButton.type = 'button';
     imageButton.setAttribute('aria-label', `Ver ${p.title}`);
     const image = el('img'); image.src = imageSrc(p.images[0]); image.alt = `${p.title}, ${p.location}`; image.loading = 'lazy';
+    if (p.imagePosition) image.style.objectPosition = p.imagePosition;
     imageButton.append(image, el('span', 'card-badge', p.operation));
     imageButton.addEventListener('click', () => openDetail(p));
     const copy = el('div', 'card-text');
@@ -86,6 +87,7 @@ function openDetail(p, updateHash = true) {
   previousFocus = document.activeElement;
   detailBody.replaceChildren();
   const cover = el('img', 'detail-cover'); cover.src = imageSrc(p.images[0]); cover.alt = `${p.title}, imagen principal`;
+  if (p.imagePosition) cover.style.objectPosition = p.imagePosition;
   const kicker = el('p', 'detail-kicker', `${p.operation} · ${p.location}`);
   const title = el('h2', '', p.title); title.id = 'detail-title';
   const summary = el('p', 'detail-summary', p.summary);
@@ -95,7 +97,9 @@ function openDetail(p, updateHash = true) {
   cta.href = whatsapp(p); cta.target = '_blank'; cta.rel = 'noopener noreferrer';
   const gallery = el('div', 'detail-gallery');
   for (let i = 1; i < p.images.length; i++) {
-    const img = el('img'); img.src = imageSrc(p.images[i]); img.alt = `${p.title}, foto ${i + 1}`; img.loading = 'lazy'; gallery.append(img);
+    const img = el('img'); img.src = imageSrc(p.images[i]); img.alt = `${p.title}, foto ${i + 1}`; img.loading = 'lazy';
+    if (p.imagePosition) img.style.objectPosition = p.imagePosition;
+    gallery.append(img);
   }
   detailBody.append(cover, kicker, title);
   if (price) detailBody.append(price);
